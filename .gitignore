@@ -49,3 +49,7 @@ muslbin/
 
 # Workflows
 **/__pycache__
+
+# Temporary cross-chat handoffs
+HANDOFF.md
+HANDOFF-*.md
